@@ -27,5 +27,8 @@
   "peerDependencies": {
     "gatsby": ">=2.0.0",
     "react": "^16"
+  },
+  "resolutions": {
+	  "favicons-webpack-plugin/favicons/sharp": "0.23.1"
   }
 }
